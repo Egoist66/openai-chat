@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\server",
+    "\\src",
+    "\\src\\components",
+    "\\src\\hooks",
+    "\\src\\style"
+  ],
+  "SelectedNode": "\\server\\server.js",
+  "PreviewInSolutionExplorer": false
+}
